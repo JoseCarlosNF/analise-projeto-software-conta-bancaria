@@ -1,5 +1,17 @@
 # Conta Bancaria
 
+```
+                          Universidade Federal do Pará
+                    Instituto de Ciências Exatas e Naturais
+                            Faculdade de Computação
+                      Bacharelado em Ciência da Computação
+                         Análise e Projetos de Software
+
+                   Aluno: Jose C. N. Ferreira - 201804940020
+
+                     Implementação Questão 2 - 2a Avaliação
+```
+
 O intuito principal foi implementar um padrão de projeto baseado em estados,
 utilizando classes abstratas para representar os estados do objeto em questão.
 
