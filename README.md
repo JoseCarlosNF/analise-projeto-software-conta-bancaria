@@ -8,6 +8,8 @@ projeto.
 
 ## Statechart
 
+![image](https://user-images.githubusercontent.com/38339200/200827937-3c113f93-8951-4fa8-969c-482c984e8206.png)
+
 ## Execução
 
 Na execuçao demonstrativa, busquei mostra o comportamento de mudança entre os
